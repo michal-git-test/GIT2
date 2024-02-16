@@ -5,6 +5,7 @@
 |Dne|16.02.2024|
 |Třída|4.C3|
 
+<hr>
 **GitHub:**
 [https://github.com/michal-git-test](http://http://bart.spsemoh.cz/)
 
